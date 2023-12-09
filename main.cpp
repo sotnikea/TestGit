@@ -4,6 +4,10 @@ int SubstractFunc(int num1, int num2)
 {
 	return num1 - num2;
 }
+int SumFunc(int num1, int num2)
+{
+	return num1 + num2;
+}
 
 int main(void)
 {
