@@ -16,6 +16,11 @@ int MultFunc(int num1, int num2)
 {
 	return num1 % num2;
 }
+int DivideFunc(int num1, int num2)
+{
+	return num1 / num2;
+        team/main
+}
 
 int main(void)
 {
